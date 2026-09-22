@@ -7,6 +7,8 @@
 
 > Full-stack Netflix clone with white-label support and complete DevOps pipeline. 143MB movies data, Java Spring Boot + React + MongoDB Atlas on AWS.
 
+![Netflix Whitelabel Architecture](./docs/netflix-architecture.png)
+
 ## 📸 Architecture
 
 
